@@ -192,5 +192,5 @@ This project is fully documented using Doxygen(working on it....). To generate t
 
 ## License
 
-This project is licensed under mohamadhama@gmail.com.
+This project is licensed under mahamadhamam15@gmail.com.
 
